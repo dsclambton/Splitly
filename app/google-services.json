@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841802663439",
+    "project_id": "splitly-7ac10",
+    "storage_bucket": "splitly-7ac10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841802663439:android:3c01b05c81c9798425857a",
+        "android_client_info": {
+          "package_name": "com.example.splitly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841802663439-dammlm79hr6lqrvp3pooqm1k3q3v3sje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC_P9hcIFVu75ZGMnXETwrFMLkPNoq-Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841802663439-dammlm79hr6lqrvp3pooqm1k3q3v3sje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

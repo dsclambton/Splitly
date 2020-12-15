@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/shadow_login"/>
+    <shape android:shape="rectangle">
+        <solid android:color="#CABBBBBB"/>
+        <corners android:radius="2dp" />
+    </shape>
+
+    <item>
+
+        <shape android:shape="rectangle">
+            <stroke android:width="2dp" android:color="@color/color_orange" >
+
+            </stroke>
+
+            <corners android:radius="20dp"/>
+            <solid android:color="@android:color/white"/>
+        </shape>
+    </item>
+</layer-list>
